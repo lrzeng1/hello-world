@@ -1,4 +1,4 @@
 # hello-world
-just another repository
+this is not just a repository
 
 This is written to confirm that the readme has added new line.
